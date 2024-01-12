@@ -1,0 +1,642 @@
+[17-Jun-2017 00:00:51 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php:27
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(66): connect->db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagratealpha/class/home.php(58): connect->query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagratealpha/include.php(177): home->gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php on line 27
+[17-Jun-2017 00:00:52 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php:27
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(66): connect->db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagratealpha/class/home.php(58): connect->query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagratealpha/include.php(177): home->gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php on line 27
+[24-Jun-2017 00:01:28 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php:27
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(66): connect->db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagratealpha/class/home.php(58): connect->query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagratealpha/include.php(177): home->gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php on line 27
+[24-Jun-2017 00:01:28 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php:27
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(66): connect->db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagratealpha/class/home.php(58): connect->query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagratealpha/include.php(177): home->gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php on line 27
+[01-Jul-2017 00:05:47 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php:27
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(66): connect->db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagratealpha/class/home.php(58): connect->query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagratealpha/include.php(177): home->gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php on line 27
+[01-Jul-2017 00:05:47 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php:27
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(66): connect->db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagratealpha/class/home.php(58): connect->query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagratealpha/include.php(177): home->gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php on line 27
+[06-Jul-2017 23:47:03 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php:27
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(66): connect->db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagratealpha/class/home.php(58): connect->query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagratealpha/include.php(177): home->gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php on line 27
+[07-Jul-2017 02:44:44 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php:27
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(66): connect->db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagratealpha/class/home.php(58): connect->query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagratealpha/include.php(177): home->gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php on line 27
+[07-Jul-2017 23:58:00 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php:27
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(66): connect->db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagratealpha/class/home.php(58): connect->query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagratealpha/include.php(177): home->gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php on line 27
+[07-Jul-2017 23:58:00 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php:27
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(66): connect->db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagratealpha/class/home.php(58): connect->query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagratealpha/include.php(177): home->gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php on line 27
+[09-Jul-2017 10:15:47 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php:27
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(66): connect->db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagratealpha/class/home.php(58): connect->query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagratealpha/include.php(177): home->gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php on line 27
+[15-Jul-2017 00:02:36 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php:27
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(66): connect->db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagratealpha/class/home.php(58): connect->query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagratealpha/include.php(177): home->gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php on line 27
+[15-Jul-2017 00:02:37 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php:27
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(27): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php(66): connect->db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagratealpha/class/home.php(58): connect->query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagratealpha/include.php(177): home->gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagratealpha/class/connect.php on line 27
+[21-Jul-2017 22:57:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[21-Jul-2017 22:57:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[29-Jul-2017 00:59:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[29-Jul-2017 00:59:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[04-Aug-2017 23:02:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[04-Aug-2017 23:02:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[11-Aug-2017 05:38:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[11-Aug-2017 08:33:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[11-Aug-2017 22:59:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[11-Aug-2017 22:59:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[12-Aug-2017 05:59:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[18-Aug-2017 23:12:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[18-Aug-2017 23:12:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[25-Aug-2017 22:59:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[25-Aug-2017 22:59:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[01-Sep-2017 23:08:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[07-Sep-2017 11:52:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[08-Sep-2017 02:28:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[08-Sep-2017 23:04:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[08-Sep-2017 23:04:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[09-Sep-2017 17:14:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[16-Sep-2017 19:58:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[16-Sep-2017 19:58:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[23-Sep-2017 20:01:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[23-Sep-2017 20:01:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[27-Sep-2017 23:02:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[30-Sep-2017 20:03:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[30-Sep-2017 20:03:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[04-Oct-2017 04:55:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[06-Oct-2017 18:39:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[07-Oct-2017 19:59:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[07-Oct-2017 19:59:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[10-Oct-2017 18:08:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[11-Oct-2017 16:50:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[11-Oct-2017 19:36:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[12-Oct-2017 23:44:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[14-Oct-2017 19:58:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[14-Oct-2017 19:58:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[21-Oct-2017 20:02:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[21-Oct-2017 20:02:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[28-Oct-2017 20:01:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[28-Oct-2017 20:01:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[03-Nov-2017 09:58:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[04-Nov-2017 20:01:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[04-Nov-2017 20:01:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[10-Nov-2017 11:05:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[11-Nov-2017 06:19:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[11-Nov-2017 12:02:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[11-Nov-2017 19:59:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[11-Nov-2017 19:59:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[14-Nov-2017 13:51:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[17-Nov-2017 12:28:58 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[17-Nov-2017 12:39:00 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[17-Nov-2017 12:59:28 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[17-Nov-2017 13:04:39 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[17-Nov-2017 13:14:48 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[17-Nov-2017 13:14:49 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[17-Nov-2017 13:25:07 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[17-Nov-2017 13:29:51 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[17-Nov-2017 13:29:51 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[17-Nov-2017 13:29:51 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[17-Nov-2017 13:50:47 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[17-Nov-2017 13:55:45 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[17-Nov-2017 14:00:48 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[18-Nov-2017 19:59:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[18-Nov-2017 19:59:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[20-Nov-2017 14:09:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /mnt/storage/theeposuk/public_html/intagrate/index.php:28
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagrate/index.php(28): PDO->__construct('mysql:host=onev...', 'oneviews_projec...', '#$Bci(B7K];+', Array)
+#1 /mnt/storage/theeposuk/public_html/intagrate/index.php(67): connectdb::db_connect()
+#2 /mnt/storage/theeposuk/public_html/intagrate/index.php(110): connectdb::query('SHOW TABLES LIK...')
+#3 /mnt/storage/theeposuk/public_html/intagrate/index.php(123): connectdb::gettemplateurl()
+#4 /mnt/storage/theeposuk/public_html/wingskitchenmacclesfield.co.uk/index.php(2): require_once('/mnt/storage/th...')
+#5 {main}
+  thrown in /mnt/storage/theeposuk/public_html/intagrate/index.php on line 28
+[21-Nov-2017 07:39:13 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[21-Nov-2017 07:43:11 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[21-Nov-2017 07:43:21 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[21-Nov-2017 07:43:22 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[21-Nov-2017 07:43:40 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[21-Nov-2017 07:59:09 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[21-Nov-2017 08:39:55 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[21-Nov-2017 08:39:55 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[21-Nov-2017 08:44:09 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[21-Nov-2017 08:51:55 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[21-Nov-2017 08:54:21 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[21-Nov-2017 08:54:21 Europe/London] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /mnt/storage/theeposuk/public_html/intagratestable/class/connect.php on line 91
+[21-Dec-2018 15:17:29 Europe/London] PHP Fatal error:  Call to undefined method home::base64_decode() in /mnt/storage/theeposuk/public_html/intagratestable/temp2/page/rate.php on line 2
+[21-Dec-2018 16:42:32 Europe/London] PHP Fatal error:  Call to undefined method home::base64_decode() in /mnt/storage/theeposuk/public_html/intagratestable/temp2/page/rate.php on line 2
+[21-Dec-2018 21:18:47 Europe/London] PHP Fatal error:  Call to undefined method home::base64_decode() in /mnt/storage/theeposuk/public_html/intagratestable/temp2/page/rate.php on line 2
+[23-Dec-2018 07:09:45 Europe/London] PHP Fatal error:  Call to undefined method home::base64_decode() in /mnt/storage/theeposuk/public_html/intagratestable/temp2/page/rate.php on line 2
+[24-Dec-2018 00:14:10 Europe/London] PHP Fatal error:  Call to undefined method home::base64_decode() in /mnt/storage/theeposuk/public_html/intagratestable/temp2/page/rate.php on line 2
+[24-Dec-2018 00:14:26 Europe/London] PHP Fatal error:  Call to undefined method home::base64_decode() in /mnt/storage/theeposuk/public_html/intagratestable/temp2/page/rate.php on line 2
+[24-Dec-2018 10:55:23 Europe/London] PHP Fatal error:  Call to undefined method home::base64_decode() in /mnt/storage/theeposuk/public_html/intagratestable/temp2/page/rate.php on line 2
+[14-Sep-2019 17:54:02 Europe/London] PHP Fatal error:  Uncaught exception 'Stripe\Error\Card' with message 'Your card's security code is incorrect.' in /mnt/storage/theeposuk/public_html/intagratetesting/action/lib/ApiRequestor.php:214 from API request 'req_XZl67RdUAUknzx'
+Stack trace:
+#0 /mnt/storage/theeposuk/public_html/intagratetesting/action/lib/ApiRequestor.php(173): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 402, Object(Stripe\Util\CaseInsensitiveArray), Array, Array)
+#1 /mnt/storage/theeposuk/public_html/intagratetesting/action/lib/ApiRequestor.php(473): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 402, Object(Stripe\Util\CaseInsensitiveArray), Array)
+#2 /mnt/storage/theeposuk/public_html/intagratetesting/action/lib/ApiRequestor.php(126): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 402, Object(Stripe\Util\CaseInsensitiveArray))
+#3 /mnt/storage/theeposuk/public_html/intagratetesting/action/lib/ApiOperations/Request.php(57): Stripe\ApiRequestor->request('post', '/v1/payment_int...', NULL, Array)
+#4 in /mnt/storage/theeposuk/public_html/intagratetesting/action/lib/ApiRequestor.php on line 214
