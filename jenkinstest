@@ -1,1 +1,29 @@
+pipeline {
+    agent any
 
+    stages {
+        stage('Checkout') {
+            steps {
+                git branch: 'main', changelog: false, poll: false, url: 'https://github.com/ananthselva/wedsite-amplify.git'
+            }
+        }
+
+  stage('SonarQube Analysis') {
+    sh '''sonar-scanner \
+  -Dsonar.projectKey=testing-sonarqube \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=http://18.171.52.34:9000 \
+  -Dsonar.token=sqp_682b7eef81ae6239d18608cdeb10391284fb5a07'''
+    }
+   }
+  }
+
+    post {
+        success {
+            echo 'Pipeline successfully executed. Deployment complete.'
+        }
+        failure {
+            echo 'Pipeline failed. Please check the logs for details.'
+        }
+    }
+}
