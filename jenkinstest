@@ -9,7 +9,7 @@ pipeline {
         }
 
   stage('SonarQube Analysis') {
-    sh 'sonar-scanner \
+    sh'sonar-scanner \
   -Dsonar.projectKey=testing-sonarqube \
   -Dsonar.sources=. \
   -Dsonar.host.url=http://18.171.52.34:9000 \
@@ -17,13 +17,3 @@ pipeline {
     }
    }
   }
-
-    post {
-        success {
-            echo 'Pipeline successfully executed. Deployment complete.'
-        }
-        failure {
-            echo 'Pipeline failed. Please check the logs for details.'
-        }
-    }
-}
