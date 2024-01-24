@@ -9,11 +9,11 @@ pipeline {
         }
 
   stage('SonarQube Analysis') {
-    sonar-scanner \
+    sh 'sonar-scanner \
   -Dsonar.projectKey=testing-sonarqube \
   -Dsonar.sources=. \
   -Dsonar.host.url=http://18.171.52.34:9000 \
-  -Dsonar.token=sqp_682b7eef81ae6239d18608cdeb10391284fb5a07
+  -Dsonar.token=sqp_682b7eef81ae6239d18608cdeb10391284fb5a07'
     }
    }
   }
