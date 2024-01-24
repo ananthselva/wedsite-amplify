@@ -2,10 +2,28 @@ pipeline {
     agent any
 
     stages {
-        stage('Deployment of server') {
+        stage('Checkout') {
             steps {
-                sshPublisher(publishers: [sshPublisherDesc(configName: 'test-aws', transfers: [sshTransfer(cleanRemote: false, excludes: '', execCommand: '', execTimeout: 120000, flatten: false, makeEmptyDirs: false, noDefaultExcludes: false, patternSeparator: '[, ]+', remoteDirectory: '/var/www/html', remoteDirectorySDF: false, removePrefix: '', sourceFiles: '**/*.php')], usePromotionTimestamp: false, useWorkspaceInPromotion: false, verbose: false)])
+                checkout scm
             }
+        }
+
+  stage('SonarQube Analysis') {
+    sonar-scanner \
+  -Dsonar.projectKey=testing-sonarqube \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=http://18.171.52.34:9000 \
+  -Dsonar.token=sqp_682b7eef81ae6239d18608cdeb10391284fb5a07
+    }
+   }
+  }
+
+    post {
+        success {
+            echo 'Pipeline successfully executed. Deployment complete.'
+        }
+        failure {
+            echo 'Pipeline failed. Please check the logs for details.'
         }
     }
 }
