@@ -18,18 +18,9 @@ stage('Build') {
 steps {
                 script {
                     withSonarQubeEnv('http://18.171.52.34:9000/') {
-                        sh "${scannerHome}/bin/sonar-scanner"
+                        sh "${sonarqubescanner}/bin/sonar-scanner"
     }
    }
   }
 }
-}
-    post {
-        success {
-            echo 'Pipeline successfully executed. Deployment complete.'
-        }
-        failure {
-            echo 'Pipeline failed. Please check the logs for details.'
-        }
-    }
 }
