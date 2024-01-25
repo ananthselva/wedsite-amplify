@@ -16,12 +16,16 @@ stage('Build') {
                 echo 'build'
             }
         }
-  stage('SonarQube Analysis') {
+ stage('SonarQube Analysis') {
 steps {
                 script {
                     def scannerHome = tool 'sonarqubescanner'
                     withSonarQubeEnv('sonarqubescanner') {
-                        sh "${sonarHome}/bin/sonar-scanner"
+                        sh "${sonarHome}/bin/sonar-scanner \
+			Dsonar.projectKey=testing-sonar \
+    -Dsonar.sources=./src \
+    -Dsonar.login=sqp_a324bdec6554ffc969701aaa22ca5fb878603dcf\
+    -X"
     }
    }
   }
