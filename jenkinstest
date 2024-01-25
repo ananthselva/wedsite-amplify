@@ -17,6 +17,7 @@ stage('Build') {
   stage('SonarQube Analysis') {
 steps {
                 script {
+                    def scannerHome = tool 'sonarqubescanner'
                     withSonarQubeEnv('http://18.171.52.34:9000/') {
                         sh "${sonarqubescanner}/bin/sonar-scanner"
     }
