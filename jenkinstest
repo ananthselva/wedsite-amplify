@@ -1,6 +1,8 @@
 pipeline {
     agent any
-
+environment {
+        scannerHome = tool 'SonarQubeScanner'
+    }
     stages {
         stage('Checkout') {
             steps {
@@ -11,7 +13,6 @@ pipeline {
   stage('SonarQube Analysis') {
 steps {
                 script {
-                    def scannerHome = tool 'sonarqube-scanner'
                     withSonarQubeEnv('http://18.171.52.34:9000/') {
                         sh "${scannerHome}/bin/sonar-scanner"
     }
