@@ -20,7 +20,7 @@ stage('Build') {
 steps {
                 script {
                     def scannerHome = tool 'sonarqubescanner'
-                    withSonarQubeEnv() {
+                    withSonarQubeEnv('sonarqubescanner') {
                         sh "${sonarHome}/bin/sonar-scanner"
     }
    }
