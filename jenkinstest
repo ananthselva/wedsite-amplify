@@ -12,7 +12,7 @@ pipeline {
 steps {
                 script {
                     def scannerHome = tool 'sonarqube-scanner'
-                    withSonarQubeEnv('Your_SonarQube_Server') {
+                    withSonarQubeEnv('http://18.171.52.34:9000/') {
                         sh "${scannerHome}/bin/sonar-scanner"
     }
    }
